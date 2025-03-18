@@ -6,7 +6,7 @@ This data analysis project aim to provide insight into a company that sales diff
 
 ### Data Sources
 
-Sales Data: The primary dataset used for this analysis is the "sales_data.csv" file, containing detailed information about each sale made by the company.
+Sales Data: The primary dataset used for this analysis is the "sales_data.xlsx" file, containing detailed information about each sale made by the company.
 
 ### Tools 
 
