@@ -41,6 +41,12 @@ The Analysis results are summarised as follows:
 
 ### Recommendations
 
+Based on the analysis, we recommend the following actions:
+- Invest in a more efficient banking system as most payments where being made through bank transfers.
+- Focus on expanding the books the company is selling.
+- Monitor order taking more than 7 days to deliver.
+
+
 
 
 
