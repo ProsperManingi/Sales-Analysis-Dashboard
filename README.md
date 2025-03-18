@@ -4,6 +4,9 @@
 
 This data analysis project aim to provide insight into a company that sales different items in different parts of the world. By analyzing various aspects of the sales data, we seek to identify trends, make data-driven recommendations and gain a deeper understanding of the company's performance.
 
+
+![Screenshot (44)](https://github.com/user-attachments/assets/f5bf9ab6-8c34-40d8-80a7-384cf44e8648)
+
 ### Data Sources
 
 Sales Data: The primary dataset used for this analysis is the "sales_data.xlsx" file, containing detailed information about each sale made by the company.
